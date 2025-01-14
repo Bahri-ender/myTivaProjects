@@ -11,3 +11,9 @@ you have to visit the folder of PDF's because it has a lot of important document
 - the projects are in the " projects " folder
 - the pinout is in the " PDF's " folder
 - the documents and datasheet are in the " PDF's " folder
+### contact
+## you can contact with me on the next emails and accounts
+# email :
+kimlikbahri@gmail.com
+# instagtam :
+bahricemmu
